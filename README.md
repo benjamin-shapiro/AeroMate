@@ -1,11 +1,12 @@
 # AeroMate
 
-Stuff goin on: 
+Stuff goin on:
 
-Need to convert 2d image or series of images to PLY point cloud model 
+Need to convert 2d image or series of images to PLY point cloud model with img2ply: 
+ -if multiple images required some way to convert mp4 to numbered jpg series
 
-Convert point cloud to 3D object 
+Convert point cloud to 3D object
 
-Run CFD on 3D object 
+Run CFD on 3D object
 
-Integrate into website for (near) real time analysis 
+Integrate into website for (near) real time analysis
